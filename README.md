@@ -1,7 +1,7 @@
 
 ---
 
-# Template Repository List
+# REST APIs Template Repository List
 
 Welcome to the **Template Repository List**! This repository serves as a centralized hub for various templates that can be used for different purposes. Click on any template below to navigate to its folder or repository.
 
