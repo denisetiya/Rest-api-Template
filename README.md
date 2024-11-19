@@ -1,40 +1,59 @@
 
----
 
-# REST APIs Template Repository List
+# 🚀 REST APIs Template Repository List
 
-Welcome to the **Template Repository List**! This repository serves as a centralized hub for various templates that can be used for different purposes. Click on any template below to navigate to its folder or repository.
-
----
-
-## Available Templates
-
-1. [**Hono REST API Starter Template (TS)**](https://github.com/denisetiya/hono-jwt-template.git)  
-   A lightweight REST API template built using the Hono framework with JWT-based authentication.
-
-2. [**Express.js Starter Template (TS)**](https://github.com/denisetiya/typeExpress-jwt-template.git)  
-   A basic starter template for building RESTful APIs with JWT using Express.js.
-    Auth with [Paseto Version](https://github.com/denisetiya/TS-Express-Paseto-template.git) 
-
-3. [**NEST JS Starter Template (TS)**](https://github.com/denisetiya/nest-jwt-template.git)  
-   A basic Starter template for building RESTful APIs with JWT Using NEST JS
+Welcome to the **Template Repository List**! This repository serves as a comprehensive hub for various templates designed to simplify building REST APIs. Whether you're using Hono, Express.js, or NEST JS, you'll find a suitable starting point with built-in authentication features. Click any template below to access the respective folder or repository.
 
 ---
 
-## Contributing
+## 📚 Available Templates
 
-If you'd like to contribute to any of these templates or add a new one, please follow these steps:
+### 1. [**Hono REST API Starter Template (TS)**](https://github.com/denisetiya/hono-jwt-template.git)
+A lightweight REST API template built with the [Hono](https://hono.dev/) framework and JWT-based authentication. Perfect for building blazing-fast APIs with minimal overhead.
 
-- Fork the repository.
-- Create a new branch for your template (`git checkout -b new-template`).
-- Add or update the necessary files.
-- Open a pull request with a description of the changes.
+### 2. [**Express.js Starter Template (TS)**](https://github.com/denisetiya/typeExpress-jwt-template.git)
+A robust starter template for building RESTful APIs using Express.js and TypeScript with JWT-based authentication.  
+🔒 **Alternative Authentication**: Try the [Paseto Version](https://github.com/denisetiya/TS-Express-Paseto-template.git) for more secure token-based authentication.
 
----
-
-## License
-
-This repository and all templates within it are licensed under the [MIT License](./LICENSE).
+### 3. [**NEST JS Starter Template (TS)**](https://github.com/denisetiya/nest-jwt-template.git)
+A well-structured starter template for building scalable RESTful APIs using NEST JS with JWT authentication. Enjoy the power of Nest's modular architecture!
 
 ---
 
+## 🤝 Contributing
+
+Contributions are highly encouraged! To get involved:
+
+1. Fork this repository.
+2. Create a new branch for your changes:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Add or update the necessary files and templates.
+4. Commit your changes:
+   ```bash
+   git commit -m "Add a new template for [feature description]"
+   ```
+5. Push to your branch:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+
+---
+
+## 📄 License
+
+This repository and all associated templates are open-source and available under the [MIT License](./LICENSE). Feel free to use, modify, and distribute as needed.
+
+---
+
+## 📧 Contact
+
+Have questions, suggestions, or feedback? Feel free to reach out by opening an [issue](https://github.com/denisetiya/Rest-api-template/issues) or starting a discussion!
+
+---
+
+**Happy coding!** 🚀
+
+---
