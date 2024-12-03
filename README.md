@@ -18,6 +18,9 @@ A robust starter template for building RESTful APIs using Express.js and TypeScr
 ### 3. [**NEST JS Starter Template (TS)**](https://github.com/denisetiya/nest-jwt-template.git)
 A well-structured starter template for building scalable RESTful APIs using NEST JS with JWT authentication. Enjoy the power of Nest's modular architecture!
 
+### 4. [**Django Rest Starter**](https://github.com/denisetiya/django-rest-template.git)
+A well-structured starter template for building scalable RESTful APIs using Django rest framework with JWT authentication.
+
 ---
 
 ## 🤝 Contributing
