@@ -36,6 +36,13 @@ Leverage NestJS’s modular architecture for building large-scale applications!
 🎯 A structured template for building REST APIs using the **Django REST Framework** with JWT authentication.
 
 ---
+## cli command
+
+```bash
+pnxp restquick init
+```
+
+[documentation](https://github.com/denisetiya/restquick.git)
 
 ## 🤝 **Contributing**
 
